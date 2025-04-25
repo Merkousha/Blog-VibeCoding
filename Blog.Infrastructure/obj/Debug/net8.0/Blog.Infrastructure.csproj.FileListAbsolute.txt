@@ -1,0 +1,17 @@
+D:\git\AI\Blog-1\Blog.Infrastructure\obj\Debug\net8.0\Blog.Infrastructure.csproj.AssemblyReference.cache
+D:\git\AI\Blog-1\Blog.Infrastructure\obj\Debug\net8.0\Blog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\AI\Blog-1\Blog.Infrastructure\obj\Debug\net8.0\Blog.Infrastructure.AssemblyInfoInputs.cache
+D:\git\AI\Blog-1\Blog.Infrastructure\obj\Debug\net8.0\Blog.Infrastructure.AssemblyInfo.cs
+D:\git\AI\Blog-1\Blog.Infrastructure\obj\Debug\net8.0\Blog.Infrastructure.csproj.CoreCompileInputs.cache
+D:\git\AI\Blog-1\Blog.Infrastructure\bin\Debug\net8.0\Blog.Infrastructure.deps.json
+D:\git\AI\Blog-1\Blog.Infrastructure\bin\Debug\net8.0\Blog.Infrastructure.dll
+D:\git\AI\Blog-1\Blog.Infrastructure\bin\Debug\net8.0\Blog.Infrastructure.pdb
+D:\git\AI\Blog-1\Blog.Infrastructure\bin\Debug\net8.0\Blog.Application.dll
+D:\git\AI\Blog-1\Blog.Infrastructure\bin\Debug\net8.0\Blog.Domain.dll
+D:\git\AI\Blog-1\Blog.Infrastructure\bin\Debug\net8.0\Blog.Application.pdb
+D:\git\AI\Blog-1\Blog.Infrastructure\bin\Debug\net8.0\Blog.Domain.pdb
+D:\git\AI\Blog-1\Blog.Infrastructure\obj\Debug\net8.0\Blog.Inf.4FB8A09A.Up2Date
+D:\git\AI\Blog-1\Blog.Infrastructure\obj\Debug\net8.0\Blog.Infrastructure.dll
+D:\git\AI\Blog-1\Blog.Infrastructure\obj\Debug\net8.0\refint\Blog.Infrastructure.dll
+D:\git\AI\Blog-1\Blog.Infrastructure\obj\Debug\net8.0\Blog.Infrastructure.pdb
+D:\git\AI\Blog-1\Blog.Infrastructure\obj\Debug\net8.0\ref\Blog.Infrastructure.dll

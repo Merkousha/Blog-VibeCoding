@@ -1,0 +1,15 @@
+D:\git\AI\Blog-1\Blog.Application\obj\Debug\net8.0\Blog.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\AI\Blog-1\Blog.Application\obj\Debug\net8.0\Blog.Application.AssemblyInfoInputs.cache
+D:\git\AI\Blog-1\Blog.Application\obj\Debug\net8.0\Blog.Application.AssemblyInfo.cs
+D:\git\AI\Blog-1\Blog.Application\obj\Debug\net8.0\Blog.Application.csproj.CoreCompileInputs.cache
+D:\git\AI\Blog-1\Blog.Application\bin\Debug\net8.0\Blog.Application.deps.json
+D:\git\AI\Blog-1\Blog.Application\bin\Debug\net8.0\Blog.Application.dll
+D:\git\AI\Blog-1\Blog.Application\bin\Debug\net8.0\Blog.Application.pdb
+D:\git\AI\Blog-1\Blog.Application\bin\Debug\net8.0\Blog.Domain.dll
+D:\git\AI\Blog-1\Blog.Application\bin\Debug\net8.0\Blog.Domain.pdb
+D:\git\AI\Blog-1\Blog.Application\obj\Debug\net8.0\Blog.Application.csproj.AssemblyReference.cache
+D:\git\AI\Blog-1\Blog.Application\obj\Debug\net8.0\Blog.App.C7D7B2EA.Up2Date
+D:\git\AI\Blog-1\Blog.Application\obj\Debug\net8.0\Blog.Application.dll
+D:\git\AI\Blog-1\Blog.Application\obj\Debug\net8.0\refint\Blog.Application.dll
+D:\git\AI\Blog-1\Blog.Application\obj\Debug\net8.0\Blog.Application.pdb
+D:\git\AI\Blog-1\Blog.Application\obj\Debug\net8.0\ref\Blog.Application.dll

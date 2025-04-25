@@ -1,0 +1,12 @@
+D:\git\AI\Blog-1\Blog.Domain\obj\Debug\net8.0\Blog.Domain.csproj.AssemblyReference.cache
+D:\git\AI\Blog-1\Blog.Domain\obj\Debug\net8.0\Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\AI\Blog-1\Blog.Domain\obj\Debug\net8.0\Blog.Domain.AssemblyInfoInputs.cache
+D:\git\AI\Blog-1\Blog.Domain\obj\Debug\net8.0\Blog.Domain.AssemblyInfo.cs
+D:\git\AI\Blog-1\Blog.Domain\obj\Debug\net8.0\Blog.Domain.csproj.CoreCompileInputs.cache
+D:\git\AI\Blog-1\Blog.Domain\bin\Debug\net8.0\Blog.Domain.deps.json
+D:\git\AI\Blog-1\Blog.Domain\bin\Debug\net8.0\Blog.Domain.dll
+D:\git\AI\Blog-1\Blog.Domain\bin\Debug\net8.0\Blog.Domain.pdb
+D:\git\AI\Blog-1\Blog.Domain\obj\Debug\net8.0\Blog.Domain.dll
+D:\git\AI\Blog-1\Blog.Domain\obj\Debug\net8.0\refint\Blog.Domain.dll
+D:\git\AI\Blog-1\Blog.Domain\obj\Debug\net8.0\Blog.Domain.pdb
+D:\git\AI\Blog-1\Blog.Domain\obj\Debug\net8.0\ref\Blog.Domain.dll

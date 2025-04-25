@@ -1,0 +1,27 @@
+@model Blog.Domain.Entities.Post
+
+@{
+    ViewData["Title"] = "حذف پست";
+}
+
+<div class="container mt-4">
+    <h1>@ViewData["Title"]</h1>
+
+    <h3>آیا از حذف این پست اطمینان دارید؟</h3>
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">@Model.Title</h4>
+            <p class="card-text">@(Model.Content.Length > 100 ? Model.Content.Substring(0, 100) + "..." : Model.Content)</p>
+            <div class="text-muted">
+                <p>نویسنده: @Model.Author</p>
+                <p>تاریخ ایجاد: @Model.CreatedAt.ToString("yyyy/MM/dd")</p>
+            </div>
+        </div>
+    </div>
+    
+    <form asp-action="Delete" class="mt-4">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="حذف" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">بازگشت به لیست</a>
+    </form>
+</div> 

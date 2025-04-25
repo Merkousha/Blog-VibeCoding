@@ -1,0 +1,30 @@
+@model Blog.Domain.Entities.Post
+
+@{
+    ViewData["Title"] = "جزئیات پست";
+}
+
+<div class="container mt-4">
+    <h1>@ViewData["Title"]</h1>
+
+    <div class="card">
+        <div class="card-body">
+            <h2 class="card-title">@Model.Title</h2>
+            <p class="card-text">@Model.Content</p>
+            <div class="text-muted">
+                <p>نویسنده: @Model.Author</p>
+                <p>تاریخ ایجاد: @Model.CreatedAt.ToString("yyyy/MM/dd HH:mm")</p>
+                @if (Model.UpdatedAt.HasValue)
+                {
+                    <p>آخرین ویرایش: @Model.UpdatedAt.Value.ToString("yyyy/MM/dd HH:mm")</p>
+                }
+                <p>وضعیت: @(Model.IsPublished ? "منتشر شده" : "پیش‌نویس")</p>
+            </div>
+        </div>
+        <div class="card-footer">
+            <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">ویرایش</a>
+            <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">حذف</a>
+            <a asp-action="Index" class="btn btn-secondary">بازگشت به لیست</a>
+        </div>
+    </div>
+</div> 

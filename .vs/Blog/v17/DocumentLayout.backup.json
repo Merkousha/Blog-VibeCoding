@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\AI\\Blog-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7113D0-9E02-4BE7-A625-88101F86F7CF}|Blog.Domain\\Blog.Domain.csproj|d:\\git\\ai\\blog-1\\blog.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7113D0-9E02-4BE7-A625-88101F86F7CF}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C7113D0-9E02-4BE7-A625-88101F86F7CF}|Blog.Domain\\Blog.Domain.csproj|d:\\git\\ai\\blog-1\\blog.domain\\blog.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C7113D0-9E02-4BE7-A625-88101F86F7CF}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\blog.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3650B943-2A54-4C35-8BF8-704C33D88E1A}|Blog.Presentation\\Blog.Presentation.csproj|d:\\git\\ai\\blog-1\\blog.presentation\\blog.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3650B943-2A54-4C35-8BF8-704C33D88E1A}|Blog.Presentation\\Blog.Presentation.csproj|solutionrelative:blog.presentation\\blog.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6E49D4-1798-4EB9-B34E-CCF2E1E5520F}|Blog.Infrastructure\\Blog.Infrastructure.csproj|d:\\git\\ai\\blog-1\\blog.infrastructure\\blog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D6E49D4-1798-4EB9-B34E-CCF2E1E5520F}|Blog.Infrastructure\\Blog.Infrastructure.csproj|solutionrelative:blog.infrastructure\\blog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.Domain",
+              "DocumentMoniker": "D:\\git\\AI\\Blog-1\\Blog.Domain\\Blog.Domain.csproj",
+              "RelativeDocumentMoniker": "Blog.Domain\\Blog.Domain.csproj",
+              "ToolTip": "D:\\git\\AI\\Blog-1\\Blog.Domain\\Blog.Domain.csproj",
+              "RelativeToolTip": "Blog.Domain\\Blog.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T16:26:53.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\git\\AI\\Blog-1\\Blog.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\git\\AI\\Blog-1\\Blog.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Blog.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:27:26.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blog.Presentation",
+              "DocumentMoniker": "D:\\git\\AI\\Blog-1\\Blog.Presentation\\Blog.Presentation.csproj",
+              "RelativeDocumentMoniker": "Blog.Presentation\\Blog.Presentation.csproj",
+              "ToolTip": "D:\\git\\AI\\Blog-1\\Blog.Presentation\\Blog.Presentation.csproj",
+              "RelativeToolTip": "Blog.Presentation\\Blog.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T16:26:01.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blog.Infrastructure",
+              "DocumentMoniker": "D:\\git\\AI\\Blog-1\\Blog.Infrastructure\\Blog.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Blog.Infrastructure\\Blog.Infrastructure.csproj",
+              "ToolTip": "D:\\git\\AI\\Blog-1\\Blog.Infrastructure\\Blog.Infrastructure.csproj",
+              "RelativeToolTip": "Blog.Infrastructure\\Blog.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T16:23:54.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
