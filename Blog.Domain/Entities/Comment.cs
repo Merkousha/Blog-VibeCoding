@@ -10,14 +10,14 @@ public class Comment
     [Required]
     public string Content { get; set; } = string.Empty;
     
-    public DateTime CreatedAt { get; set; }
+    public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
     
     public DateTime? UpdatedAt { get; set; }
     
     [Required]
     public string AuthorId { get; set; } = string.Empty;
     
-    public virtual IdentityUser Author { get; set; } = null!;
+    public virtual User Author { get; set; } = null!;
     
     public int PostId { get; set; }
     
